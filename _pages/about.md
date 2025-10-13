@@ -28,7 +28,7 @@ latest_posts:
 
 Chenxi Zhang is an Associate Professor at Xidian University, China. I received my Ph.D degree in Software Engineering from Fudan University, under the supervision of Prof. Xin Peng. Previously, I was a software engineer at Huawei.
 
-My research is focused on Software Engineering, particularly in the areas of AIOps, Cloud-Native systems and Software testing.c I have published over ten papers in the top conferences in the field of software engineering, include ICSE, FSE, and ASE.
+My research is focused on Software Engineering, particularly in the areas of AIOps, Cloud-Native systems, and Software testing. I have published over ten papers in the top conferences in the field of software engineering, including ICSE, FSE, and ASE.
 
 **Research Interests:**
 - **AIOps:** anomaly detection, root cause analysis, LLM4Ops, AgentOps
