@@ -2,16 +2,15 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Associate Professor, Xidian University</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='https://cs.xidian.edu.cn/'>Associate Professor, School of Computer Science and Technology, Xidian University</a>
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p></p>
+
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -27,6 +26,12 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Chenxi Zhang is an Associate Professor at Xidian University, China. I received my Ph.D degree in Software Engineering from Fudan University, under the supervision of Prof. Xin Peng. My research is focused on Software Engineering, particularly in the areas of AIOps, microservice, and testing.
+Chenxi Zhang is an Associate Professor at Xidian University, China. I received my Ph.D degree in Software Engineering from Fudan University, under the supervision of Prof. Xin Peng. Previously, I was a software engineer at Huawei.
 
+My research is focused on Software Engineering, particularly in the areas of AIOps, Cloud-Native systems and Software testing.c I have published over ten papers in the top conferences in the field of software engineering, include ICSE, FSE, and ASE.
+
+**Research Interests:**
+- **AIOps:** anomaly detection, root cause analysis, LLM4Ops, AgentOps
+- **Cloud-Native Systems:** architecture measurement, architecture anti-patterns
+- **Testing:** Restful API testing
 
