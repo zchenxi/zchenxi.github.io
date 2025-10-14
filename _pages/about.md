@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: Home
 permalink: /
 subtitle: <a href='https://cs.xidian.edu.cn/'>Associate Professor, School of Computer Science and Technology, Xidian University</a>
 
