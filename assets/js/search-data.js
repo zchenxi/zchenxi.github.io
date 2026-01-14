@@ -398,11 +398,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-our-paper-about-llm-powered-trace-analysis-is-accepted-by-www-2026-sparkles",
-          title: 'Our paper about LLM-powered trace analysis is accepted by WWW 2026. :sparkles:',
-          description: "",
-          section: "News",},{id: "news-our-paper-about-root-cause-analysis-in-microservice-systems-is-accepted-by-ase-2025",
+            },},{id: "news-our-paper-about-root-cause-analysis-in-microservice-systems-is-accepted-by-ase-2025",
           title: 'Our paper about root cause analysis in microservice systems is accepted by ASE...',
+          description: "",
+          section: "News",},{id: "news-our-paper-about-llm-powered-trace-analysis-is-accepted-by-www-2026-sparkles",
+          title: 'Our paper about LLM-powered trace analysis is accepted by WWW 2026. :sparkles:',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
