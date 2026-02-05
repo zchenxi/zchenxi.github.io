@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper about LLM-powered trace analysis is accepted by WWW 2026. :sparkles:
+Our paper about LLM-powered trace analysis is accepted by WWW 2026.
