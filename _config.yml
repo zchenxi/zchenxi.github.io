@@ -263,8 +263,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Chenxi]
-  first_name: [Zhang]
+  last_name: [Zhang]
+  first_name: [Chenxi]
 
   style: apa
   locale: en
