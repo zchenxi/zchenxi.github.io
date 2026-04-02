@@ -21,7 +21,8 @@ nav_order: 7
 
 ### Program Committee Member
 
-- 2026：The 48th IEEE/ACM International Conference on Software Engineering (ICSE 2026 Artifact Evaluation)
+- 2027: The 49th IEEE/ACM International Conference on Software Engineering (ICSE 2027)
+- 2026: The 48th IEEE/ACM International Conference on Software Engineering (ICSE 2026 Artifact Evaluation)
 - 2025: The 32nd IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER 2025)
 - 2025: The 36th IEEE International Symposium on Software Reliability Engineering (ISSRE 2025 Artifact Evaluation Track)
 - 2025: The 47th IEEE/ACM International Conference on Software Engineering (ICSE 2025 Artifact Evaluation)
