@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper about text-to-PromQL is accepted by TOSEM. :sparkles:
+Our paper about text-to-PromQL is accepted by TOSEM.
